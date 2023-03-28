@@ -1,10 +1,12 @@
 ## LaTeX template for assessments + note-taking
 
+credit: [SeniorMars](https://github.com/SeniorMars/dotfiles/tree/master/latex_template)
+
 - `letterfonts.tex` - fonts
 - `macros.tex` - commands
 - `preamble.tex` - packages, definitions, commands
 - `template.tex` - template with examples
-- `blanke-template.tex` - blank template, only inputs and title
+- `blank-template.tex` - blank template, only inputs and title
 
 Compress to upload to web-based environment e.g., [Overleaf](https://www.overleaf.com/project):
 ```bash
