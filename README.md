@@ -13,3 +13,7 @@ zip -r name.zip . -x ".git/*"
 
 For local development:
 Requires LaTeX distribution in system PATH e.g., [TeX Live](https://www.tug.org/texlive/), [MiKTeX](https://miktex.org/)
+
+Screenshot of compiled template:
+
+![Compiled template](./template.png)
